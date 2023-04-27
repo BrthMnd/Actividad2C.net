@@ -1,0 +1,15 @@
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.AssemblyInfo.cs
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\bin\Debug\net7.0\Actividad.exe
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\bin\Debug\net7.0\Actividad.deps.json
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\bin\Debug\net7.0\Actividad.runtimeconfig.json
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\bin\Debug\net7.0\Actividad.dll
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\bin\Debug\net7.0\Actividad.pdb
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.dll
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\refint\Actividad.dll
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.pdb
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.genruntimeconfig.cache
+C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\ref\Actividad.dll
