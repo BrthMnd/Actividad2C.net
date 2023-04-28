@@ -14,16 +14,19 @@ namespace MyApp
             _salarioBase = salarioBase;
             _bonoAnual = bonoAnual;
         }
-        public void CalcularSalario()
+        public double CalcularSalario()
         {
             double totalAnual = _salarioBase * 12;
+            return totalAnual;
         }
         public override String ToString()
         {
-            return "empleado "+_nombre +" Escribo";
+            return "Empleado: " + _nombre + " Con un salario de  $" + _salarioBase + "\n"
+            + "Con un total anual de $" + CalcularSalario() + "\n"
+            + "Y con un Bono anual de $" + _bonoAnual;
 
 
         }
     }
-    
+
 }

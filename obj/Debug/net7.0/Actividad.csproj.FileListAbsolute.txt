@@ -13,3 +13,18 @@ C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\refint\A
 C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.pdb
 C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\Actividad.genruntimeconfig.cache
 C:\Users\Sena\Documents\SisR\trimestre7\.net\Actividad\obj\Debug\net7.0\ref\Actividad.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\bin\Debug\net7.0\Actividad.exe
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\bin\Debug\net7.0\Actividad.deps.json
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\bin\Debug\net7.0\Actividad.runtimeconfig.json
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\bin\Debug\net7.0\Actividad.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\bin\Debug\net7.0\Actividad.pdb
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\Actividad.csproj.AssemblyReference.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\Actividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\Actividad.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\Actividad.AssemblyInfo.cs
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\Actividad.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\Actividad.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\refint\Actividad.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\Actividad.pdb
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\Actividad.genruntimeconfig.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\Actividad2C.net\obj\Debug\net7.0\ref\Actividad.dll

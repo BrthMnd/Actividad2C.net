@@ -1,10 +1,11 @@
 
 using System;
 
-namespace MyApp 
+namespace MyApp
 {
-    
-    class Producto{
+
+    class Producto
+    {
         private string _nombre;
         private double _precio;
         private double _cantidad;
@@ -15,32 +16,40 @@ namespace MyApp
             _precio = precio;
             _cantidad = cantidad;
         }
-        
 
-        public void AgregarCantidad(double nuevaCantidad){
+
+        public void AgregarCantidad(double nuevaCantidad)
+        {
 
             _cantidad += nuevaCantidad;
 
         }
-        public void QuitarCantidad(double nuevaCantidad){
+        public void QuitarCantidad(double nuevaCantidad)
+        {
             _cantidad -= nuevaCantidad;
 
         }
-        public double CalcularTotal(){
+        public void CambiarPrecio(double newPrecio)
+        {
+            _precio = newPrecio;
+        }
+        public double CalcularTotal()
+        {
 
             double Total;
 
-            Total = _cantidad*_precio;
+            Total = _cantidad * _precio;
             return Total;
         }
-        public void MostrarInformacion(){
-            
-            Console.WriteLine("El producto "+ _nombre+" con un precio de $"+_precio+"\n"
-            +" se comprará una cantidad de "+ _cantidad+" unidades"+ "\n"
-            +" Que hacen un total de "+ CalcularTotal());
+        public void MostrarInformacion()
+        {
+
+            Console.WriteLine("El producto " + _nombre + " con un precio de $" + _precio + "\n"
+            + " se comprará una cantidad de " + _cantidad + " unidades" + "\n"
+            + " Que hacen un total de " + CalcularTotal());
 
         }
     }
 }
 
-    
+

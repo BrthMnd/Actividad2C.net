@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\Actividad\\Actividad.csproj": {}
+    "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\Actividad2C.net\\Actividad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\Actividad\\Actividad.csproj": {
+    "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\Actividad2C.net\\Actividad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\Actividad\\Actividad.csproj",
+        "projectUniqueName": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\Actividad2C.net\\Actividad.csproj",
         "projectName": "Actividad",
-        "projectPath": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\Actividad\\Actividad.csproj",
-        "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\Actividad\\obj\\",
+        "projectPath": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\Actividad2C.net\\Actividad.csproj",
+        "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\Actividad2C.net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
